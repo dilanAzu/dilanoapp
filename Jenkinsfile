@@ -1,2 +1,2 @@
 @Library('mira-story-shared') _
-dilanoapp 'http://github.com/dilanAzu/dilanapp'
+dilanoApp 'http://github.com/dilanAzu/dilanapp'
